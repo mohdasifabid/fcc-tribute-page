@@ -31,3 +31,6 @@
   border-radius: 2px;
   background-color: rosybrown;
 }
+body {
+  width: 100vw;
+}
