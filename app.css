@@ -4,10 +4,11 @@
   color: white;
   padding: 1rem;
 }
+#image {
+  max-width: 100%;
+}
 
 #img-div {
-  max-width: 100%;
-  height: auto;
   text-align: center;
 }
 
